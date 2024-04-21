@@ -1,4 +1,4 @@
-package br.com.screenmatch.randomphrases.controller.service;
+package br.com.screenmatch.randomphrases.service;
 
 import br.com.screenmatch.randomphrases.dto.PhraseDTO;
 import br.com.screenmatch.randomphrases.model.Phrase;
